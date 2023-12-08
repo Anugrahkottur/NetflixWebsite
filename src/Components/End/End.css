@@ -1,0 +1,88 @@
+.end
+{
+    color: aliceblue;
+    background-color: black;
+    height: 90vh;
+}
+.div1{
+    
+    width: 200px;
+   
+}
+.div2{
+    
+    width: 200px;
+}
+.div3{
+    
+    width: 200px;
+}
+.div4{
+    
+    width: 200px;
+}
+.end-div{
+    
+    
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    font-size: 20px;
+    height: 200px;
+    position: relative;
+    left: 300px;
+    top: 100px;
+}
+li{
+    list-style: none;
+  
+}
+.E-b2{
+    position: relative;
+    left: 100px;
+    top: 150px;
+    width: 150px;
+    color: aliceblue;
+    border-radius: 10px;
+    background-color: transparent;
+    font-size: 20px;
+    border-color: aliceblue;
+}
+.Netflix-end{
+    color: aliceblue;
+    position: relative;
+    top: 200px;
+    left: 100px;
+}
+.E-txt1{
+    color: aliceblue;
+    position: relative;
+    left: 450px;
+    font-size: 20px;
+}
+.E-b1{
+    background-color: red;
+    width: 150px;
+    height: 45px;
+    border-radius: 5px;
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 448px;
+   
+}
+.E-input1{
+    width: 600px;
+    height: 45px;
+    font-size: 18px;
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.5
+  );
+  border-style: solid;
+  color: red;
+  position: relative;
+  left: 450px;
+}

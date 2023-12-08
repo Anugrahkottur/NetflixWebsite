@@ -1,0 +1,39 @@
+.main-div{
+  background-color: black;
+   
+}
+.App {
+    font-family: Arial, sans-serif;
+    margin: 50px auto;
+    max-width: 800px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 25px;
+  }
+  
+  /* AccordionItem.css */
+  .accordion-item {
+    border-bottom: 3px solid #ccc;
+  }
+  
+  .accordion-title {
+    background-color: #f1f1f1;
+    color: #333;
+    padding: 10px;
+    cursor: pointer;
+    background-color: red;
+  }
+  
+  .accordion-content {
+    padding: 10px;
+    border-top: 1px solid #ccc;
+    background-color: #fff;
+    display: block;
+   
+  }
+  .A-txt1{
+    color: white;
+    font-size: 55px;
+   
+  }
+ 

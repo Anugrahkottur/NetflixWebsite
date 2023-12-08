@@ -1,0 +1,118 @@
+.Header {
+  width: 100%;
+  height: 100vh;
+
+}
+
+.header-img1 {
+  display: block;
+  width: 100%;
+  height: 100vh;
+  z-index: -7px;
+}
+
+.overlay {
+  position: absolute;
+  top: 7px;
+  
+  width: 1500px;
+  height: 105vh;
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.5
+  ); /* Adjust the alpha value to change the darkness */
+}
+.header-img2 {
+  width: 150px;
+  position: relative;
+
+  left: 150px;
+}
+.logobox {
+  position: relative;
+  bottom: 690px;
+  display: flex;
+  width: 100%;
+}
+.hb1 {
+  position: relative;
+  left: 900px;
+  width: 150px;
+  color: aliceblue;
+  border-radius: 10px;
+  background-color: transparent;
+  font-size: 20px;
+  border-color: aliceblue;
+}
+.hb2 {
+  background-color: red;
+  color: aliceblue;
+  position: relative;
+  left: 910px;
+  width: 100px;
+  border-radius: 10px;
+  font-size: 16px;
+}
+.h-txt1 {
+  font-size: 55px;
+  font-weight: bold;
+  color: aliceblue;
+  position: relative;
+}
+.h-txt2 {
+  font-size: 24px;
+  position: relative;
+  left: 480px;
+  top: 20px;
+  color: aliceblue;
+  width: 70%;
+  
+}
+.headerbox {
+  position: relative;
+  bottom: 500px;
+  left: 150px;
+  width: 80%;
+  height: 400px;
+
+}
+.h-txt3 {
+  font-size: 24px;
+  position: relative;
+  color: aliceblue;
+  top: 50px;
+  left: 260px;
+  width: 80%;
+}
+.h-input1{
+  position: relative;
+  width: 400px;
+  height: 50px;
+  font-size: 18px;
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.5
+  );
+  border-style: solid;
+  color: red;
+}
+.input-div1{
+  display: flex;
+
+  position: relative;
+  top: 70px;
+  left: 310px;
+  width: 60%;
+}
+.h-b2{
+  background-color: red;
+  width: 150px;
+  position: relative;
+  left: 20px;
+  border-radius: 10px;
+  font-size: 20px;
+}

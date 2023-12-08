@@ -1,0 +1,31 @@
+.center4{
+    background-color: black;
+    width: 100%;
+    height: 80vh;
+}
+.c4-img1{
+    width: 570px;
+    position: relative;
+    left: 200px;
+    top: 60px;
+}
+
+.txtbox4{
+   
+    position: relative;
+    left: 750px;
+    width: 40%;
+    bottom: 300px;
+}
+.c4-txt1{
+    color: aliceblue;
+    font-size: 55px;
+    font-weight: bold;
+}
+.c4-txt2{
+   color: aliceblue;
+   font-size: 24px;
+   position: relative;
+   top: 10px;
+}
+

@@ -1,0 +1,99 @@
+/* .end{
+    position: relative;
+    top: 70px;
+   background-color: black;
+   height: 100vh;
+}
+.E-input1{
+    width: 600px;
+    height: 45px;
+    font-size: 18px;
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.5
+  );
+  border-style: solid;
+  color: red;
+  position: relative;
+  left: 450px;
+}
+.E-b1{
+    background-color: red;
+    width: 150px;
+    height: 45px;
+    border-radius: 5px;
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 448px;
+   
+}
+.E-hr{
+    position: relative;
+    top: 20px;
+}
+.E-txt1{
+    color: aliceblue;
+    position: relative;
+    left: 450px;
+    font-size: 20px;
+}
+a{
+    color: blanchedalmond;
+}
+.E-txt2{
+    color: aliceblue;
+    position: relative;
+    top: 60px;
+    left: 100px;
+}
+.E-a-div{
+    
+    display: flex;
+    width: 70%;
+    height: 180px;
+    position: relative;
+    left: 230px;
+    top: 100px;
+    justify-content: space-between;
+}
+.E-a1{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+}
+.E-a2{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+}
+.E-a3{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+}
+.E-a4{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    height: 125px;
+}
+.E-b2{
+    position: relative;
+    left: 100px;
+    top: 200px;
+    width: 150px;
+    color: aliceblue;
+    border-radius: 10px;
+    background-color: transparent;
+    font-size: 20px;
+    border-color: aliceblue;
+}
+.Netflix-end{
+    color: aliceblue;
+    position: relative;
+    top: 250px;
+    left: 100px;
+} */
